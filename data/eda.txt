@@ -1,0 +1,5 @@
+vehicle: 5548
+loc: 5242
+dame: 4126
+time: 2967
+reason: 986
